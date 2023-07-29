@@ -1,0 +1,20 @@
+.grid{
+    display: grid;
+}
+
+.text-center{
+    text-align: center;
+}
+
+/* .border{
+    border: 2px solid brown;
+} */
+
+.m-10{
+    margin: 10rem;
+}
+
+.w-100{
+    min-width: 70vw;
+}
+
